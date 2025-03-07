@@ -2,7 +2,7 @@
 <!--   <h1>Hi 👋, I'm Yadvender Singh</h1> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=60&duration=2000&color=2123E1DA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=256&lines=Hi+%F0%9F%91%8B%2C+I'm;Yadvender+Singh" alt="Typing SVG" /></a>
   <h3>
-    Software Engineer skilled in backend development &amp; building machine learning applications to solve real-world problems.
+    Software Engineer skilled in full stack development &amp; building machine learning applications to solve real-world problems.
   </h3>
 </div>
 
