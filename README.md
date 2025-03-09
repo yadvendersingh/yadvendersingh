@@ -27,7 +27,7 @@
 
 ### About Me
 - 🌱 I’m currently researching **applied AI in financial analysis and multimodal Generative AI**
-- 👨‍💻 All of my projects are available at [GitHub](http://www.github.com/yadvendersingh)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/yadvendersingh?tab=repositories)
 - 💬 Ask me about **React, Java, Python and AI Frameworks/Libraries**
 - 📫 How to reach me: **yadvender12@gmail.com**
 - 📄 Know about my experiences at [yadvender.me](http://yadvender.me/)
